@@ -1,6 +1,8 @@
-#Andrew_NG_Learnings
+**Andrew_NG_Learnings**
 
 This Directory has my practice of programming assignments from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
+
+Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 It has 
 
