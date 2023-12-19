@@ -1,22 +1,40 @@
 [**Andrew_NG_Learning**](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings)
 
 This Directory has my practice of programming assignments from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
+
 It has 
--[1 logistic_regression](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/1%20logistic_regression)
--[2 deep_nueral_network_application](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/2%20deep_nueral_network_application)
--[3 different_types_of_initialization](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/3%20different_types_of_initialization)
--[4 regularization](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/4%20regularization)
--[5 gradient_checking](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/5%20gradient_checking)
--[6 optimization_methods](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/6%20optimization_methods)
--[7 tensor_flow intoduction](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/7%20tensor_flow)
--[8 convolution_step_by_step](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/8%20convolution_step_by_step)
--[9  convolutional_neural_networks_application](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/9%20%20convolutional_neural_networks_application)
--[10 res_net](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/10%20res_net)
--[11 transfer_learning_with_mobilenet](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/11%20transfer_learning_with_mobilenet)
--[12 car_detection_using_YOLO](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/12%20car_detection_using_YOLO)
--[13 image_segmentation_using_Unet](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/13%20image_segmentation_using_Unet)
--[14 face_recognition](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/14%20face_recognition)
--[15 nueral_style_transfer](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/15%20nueral_style_transfer)
--[16 recurrent_nueral_network_basic_units](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/16%20recurrent_nueral_network_basic_units)
--[17 generating_new_names_using_rnn](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/17%20generating_new_names_using_rnn)
--[18 operations on word vectors](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/19%20operations%20on%20word%20vectors)
+[1 logistic_regression](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/1%20logistic_regression)
+
+[2 deep_nueral_network_application](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/2%20deep_nueral_network_application)
+
+[3 different_types_of_initialization](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/3%20different_types_of_initialization)
+
+[4 regularization](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/4%20regularization)
+
+[5 gradient_checking](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/5%20gradient_checking)
+
+[6 optimization_methods](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/6%20optimization_methods)
+
+[7 tensor_flow intoduction](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/7%20tensor_flow)
+
+[8 convolution_step_by_step](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/8%20convolution_step_by_step)
+
+[9  convolutional_neural_networks_application](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/9%20%20convolutional_neural_networks_application)
+
+[10 res_net](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/10%20res_net)
+
+[11 transfer_learning_with_mobilenet](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/11%20transfer_learning_with_mobilenet)
+
+[12 car_detection_using_YOLO](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/12%20car_detection_using_YOLO)
+
+[13 image_segmentation_using_Unet](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/13%20image_segmentation_using_Unet)
+
+[14 face_recognition](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/14%20face_recognition)
+
+[15 nueral_style_transfer](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/15%20nueral_style_transfer)
+
+[16 recurrent_nueral_network_basic_units](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/16%20recurrent_nueral_network_basic_units)
+
+[17 generating_new_names_using_rnn](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/17%20generating_new_names_using_rnn)
+
+[18 operations on word vectors](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/19%20operations%20on%20word%20vectors)
