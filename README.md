@@ -1,4 +1,4 @@
-[**Andrew_NG_Learning**](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings)
+#Andrew_NG_Learnings
 
 This Directory has my practice of programming assignments from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
 
