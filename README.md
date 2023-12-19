@@ -4,7 +4,7 @@ This Directory has currently 2 projects.They are
 
 [1.Titanic](https://github.com/ajithsandilya/deep_learning/tree/master/Projects/titanic) project demonstates the use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-[2.Dog_Breed_Identification](https://github.com/ajithsandilya/deep_learning/tree/master/Projects/dog_breed_classification) project demonstrates identifying the Dog breed by  the transfer learning using InceptionV3 pre trained model which has been trained on the imagenet dataset 
+[2.Dog_Breed_Identification](https://github.com/ajithsandilya/deep_learning/tree/master/Projects/dog_breed_classification) project demonstrates identifying the Dog breed by   transfer learning using InceptionV3, a pre trained model which has been trained on the imagenet dataset.
 
 
 
