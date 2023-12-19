@@ -3,6 +3,7 @@
 This Directory has my practice of programming assignments from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
 
 It has 
+
 [1 logistic_regression](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/1%20logistic_regression)
 
 [2 deep_nueral_network_application](https://github.com/ajithsandilya/deep_learning/tree/master/Andrew_NG_Learnings/2%20deep_nueral_network_application)
