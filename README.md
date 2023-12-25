@@ -4,7 +4,7 @@ This Directory has currently 2 projects.They are
 
 [1.Dog_Breed_Identification](https://github.com/ajithsandilya/deep_learning/tree/master/Projects/dog_breed_classification) project demonstrates identifying the Dog breed by transfer learning using InceptionV3, a pre trained model which has been trained on the imagenet dataset. There are 120 breeds of dogs in the dataset.
 
-[2.multi_class_image_classification_using_pytorch]()demonstrates the multi class classification of image data of natural scenes around the world using ResNet50 in PyTorch.This Data contains 6 categories.They are bulidings,forest,glacier,mountain,sea,street.There are around 14k images in Train, 3k in Test and 7k in Prediction.
+[2.multi_class_image_classification_using_pytorch](https://github.com/ajithsandilya/deep_learning/blob/master/Projects/multi_class_image_classification_using_pytorch/multi.ipynb)demonstrates the multi class classification of image data of natural scenes around the world using ResNet50 in PyTorch.This Data contains 6 categories.They are bulidings,forest,glacier,mountain,sea,street.There are around 14k images in Train, 3k in Test and 7k in Prediction.
 
 [3.identifying_handwritten_digits](https://github.com/ajithsandilya/deep_learning/blob/master/Projects/identifying_handwritten_digits/identify.ipynb) demonstrates the classification of handwritten digits from the MNIST dataset using Logistic Regression in PyTorch.
 
