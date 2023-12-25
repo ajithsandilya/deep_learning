@@ -1,14 +1,14 @@
 # Projects
 
-This Directory has currently 2 projects.They are 
+This Directory has currently 4 projects.They are 
 
-[1.Dog_Breed_Identification](https://github.com/ajithsandilya/deep_learning/tree/master/Projects/dog_breed_classification) project demonstrates identifying the Dog breed by transfer learning using InceptionV3, a pre trained model which has been trained on the imagenet dataset. There are 120 breeds of dogs in the dataset.
+[1.Dog_Breed_Identification](https://github.com/ajithsandilya/deep_learning/blob/master/Projects/dog_breed_classification/dog_breed.ipynb) project demonstrates identifying the Dog breed by transfer learning using InceptionV3, a pre trained model which has been trained on the imagenet dataset. There are 120 breeds of dogs in the dataset.
 
-[2.multi_class_image_classification_using_pytorch](https://github.com/ajithsandilya/deep_learning/blob/master/Projects/multi_class_image_classification_using_pytorch/multi.ipynb)demonstrates the multi class classification of image data of natural scenes around the world using ResNet50 in PyTorch.This Data contains 6 categories.They are bulidings,forest,glacier,mountain,sea,street.There are around 14k images in Train, 3k in Test and 7k in Prediction.
+[2.multi_class_image_classification_using_pytorch](https://github.com/ajithsandilya/deep_learning/blob/master/Projects/multi_class_image_classification_using_pytorch/multi.ipynb)demonstrates the multi class classification of image data of natural scenes around the world using resnet50 in PyTorch.This Data contains 6 categories.They are bulidings,forest,glacier,mountain,sea,street.There are around 14k images in Train, 3k in Test and 7k in Prediction.
 
 [3.identifying_handwritten_digits](https://github.com/ajithsandilya/deep_learning/blob/master/Projects/identifying_handwritten_digits/identify.ipynb) demonstrates the classification of handwritten digits from the MNIST dataset using Logistic Regression in PyTorch.
 
-[4.Titanic](https://github.com/ajithsandilya/deep_learning/tree/master/Projects/titanic) project demonstates the use of machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
+[4.Titanic](https://github.com/ajithsandilya/deep_learning/blob/master/Projects/titanic/titanic.ipynb) project demonstates the use of machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
 
 # Andrew_NG_Learnings
